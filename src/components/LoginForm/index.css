@@ -1,0 +1,11 @@
+.bg-container{
+    display: flex;
+}
+.formContainer{
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.error{
+    color: crimson;
+    text-align: center;
+}
